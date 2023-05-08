@@ -9,3 +9,6 @@ Part 1 (CI)
 Part 2 (CD)
 
 ![image](https://user-images.githubusercontent.com/48417379/236947711-624324be-5a3c-4969-a554-20d1e24a923c.png)
+
+![image](https://user-images.githubusercontent.com/48417379/236950234-dde5982c-d99f-4c12-b134-868c96058b4a.png)
+
