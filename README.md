@@ -1,12 +1,5 @@
-# spring-gumball ci/cd example
+LAB #10 Notes
 
-### This example demonstrates the following two GitHub Workflows.
+Part 1 (CI)
 
-* https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-gradle
-
-* https://github.com/google-github-actions/setup-gcloud/tree/master/example-workflows/gke
-
-### Build Dependencies
-
-* Gradle 5.6
-* JDK 11
+![image](https://user-images.githubusercontent.com/48417379/236942928-d3bfd406-2cdb-4348-a0ff-d4d69aea34c1.png)
